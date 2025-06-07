@@ -165,11 +165,52 @@
     
 }
 
-.carousel-item img {
+.carussel-1 {
     position: absolute;
     width: 100%;
     height: 100%;
     object-fit: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../img/banner-mb-3.jpg);
+}
+
+@media screen and (min-width: 768px) {
+  .carussel-1 {
+    background-image: url(../img/banner-3.jpg);
+  }
+}
+
+.carussel-2 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../img/banner-mb-1.jpg);
+}
+
+@media screen and (min-width: 768px) {
+  .carussel-2 {
+    background-image: url(../img/banner-1.jpg);
+  }
+}
+
+.carussel-3{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../img/banner-mb-4.jpg);
+}
+
+@media screen and (min-width: 768px) {
+  .carussel-3 {
+    background-image: url(../img/banner-4.jpg);
+  }
 }
 
 .carousel-item .carousel-caption {
@@ -182,6 +223,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
+    background-color: antiquewhite;
     background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5));
     background-size: cover;
 }
@@ -221,7 +263,7 @@
 
 
 .bg-breadcrumb {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/banner-3.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/appointment-background.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
