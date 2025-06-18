@@ -94,6 +94,15 @@
     padding: 10px 0;
     background: var(--bs-secondary) !important;
 }
+.lang-btn {
+    color: var(--bs-light);
+}
+.lang-btn.active {
+    color: var(--bs-primary);
+    text-decoration: underline;
+    font-size: 19px;
+    font-weight: 900;
+}
 
 /*** Topbar End ***/
 
