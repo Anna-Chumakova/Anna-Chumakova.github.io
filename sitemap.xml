@@ -22,7 +22,21 @@
 <priority>1.00</priority>
 </url>
 <url>
+<loc>https://letssugar.beauty/bg/blog-bg</loc>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/blog" hreflang="ru"/>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/bg/blog-bg" hreflang="bg"/>
+<changefreq>monthly</changefreq>
+<priority>1.00</priority>
+</url>
+<url>
 <loc>https://letssugar.beauty/contact.html</loc>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/contact" hreflang="ru"/>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/bg/contact-bg" hreflang="bg"/>
+<changefreq>monthly</changefreq>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://letssugar.beauty/bg/contact-bg</loc>
 <xhtml:link rel="alternate" href="https://letssugar.beauty/contact" hreflang="ru"/>
 <xhtml:link rel="alternate" href="https://letssugar.beauty/bg/contact-bg" hreflang="bg"/>
 <changefreq>monthly</changefreq>
@@ -36,7 +50,21 @@
 <priority>1.00</priority>
 </url>
 <url>
+<loc>https://letssugar.beauty/bg/price-bg</loc>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/price" hreflang="ru"/>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/bg/price-bg" hreflang="bg"/>
+<changefreq>monthly</changefreq>
+<priority>1.00</priority>
+</url>
+<url>
 <loc>https://letssugar.beauty/depilation-armpits.html</loc>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/depilation-armpits" hreflang="ru"/>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/bg/depilation-armpit-bg" hreflang="bg"/>
+<changefreq>monthly</changefreq>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://letssugar.beauty/bg/depilation-armpit-bg</loc>
 <xhtml:link rel="alternate" href="https://letssugar.beauty/depilation-armpits" hreflang="ru"/>
 <xhtml:link rel="alternate" href="https://letssugar.beauty/bg/depilation-armpit-bg" hreflang="bg"/>
 <changefreq>monthly</changefreq>
@@ -50,7 +78,21 @@
 <priority>1.00</priority>
 </url>
 <url>
+<loc>https://letssugar.beauty/bg/depilation-arms-bg</loc>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/depilation-arms" hreflang="ru"/>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/bg/depilation-arms-bg" hreflang="bg"/>
+<changefreq>monthly</changefreq>
+<priority>1.00</priority>
+</url>
+<url>
 <loc>https://letssugar.beauty/depilation-back-head.html</loc>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/depilation-back-head" hreflang="ru"/>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/bg/depilation-back-head-bg" hreflang="bg"/>
+<changefreq>monthly</changefreq>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://letssugar.beauty/bg/depilation-back-head-bg</loc>
 <xhtml:link rel="alternate" href="https://letssugar.beauty/depilation-back-head" hreflang="ru"/>
 <xhtml:link rel="alternate" href="https://letssugar.beauty/bg/depilation-back-head-bg" hreflang="bg"/>
 <changefreq>monthly</changefreq>
@@ -64,7 +106,21 @@
 <priority>1.00</priority>
 </url>
 <url>
+<loc>https://letssugar.beauty/bg/depilation-bikini-bg</loc>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/depilation-bikini" hreflang="ru"/>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/bg/depilation-bikini-bg" hreflang="bg"/>
+<changefreq>monthly</changefreq>
+<priority>1.00</priority>
+</url>
+<url>
 <loc>https://letssugar.beauty/depilation-face.html</loc>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/depilation-face" hreflang="ru"/>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/bg/depilation-face-bg" hreflang="bg"/>
+<changefreq>monthly</changefreq>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://letssugar.beauty/bg/depilation-face-bg</loc>
 <xhtml:link rel="alternate" href="https://letssugar.beauty/depilation-face" hreflang="ru"/>
 <xhtml:link rel="alternate" href="https://letssugar.beauty/bg/depilation-face-bg" hreflang="bg"/>
 <changefreq>monthly</changefreq>
@@ -78,7 +134,21 @@
 <priority>1.00</priority>
 </url>
 <url>
+<loc>https://letssugar.beauty/bg/depilation-stomach-bg</loc>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/depilation-stomach" hreflang="ru"/>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/bg/depilation-stomach-bg" hreflang="bg"/>
+<changefreq>monthly</changefreq>
+<priority>1.00</priority>
+</url>
+<url>
 <loc>https://letssugar.beauty/depilations-legs.html</loc>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/depilations-legs" hreflang="ru"/>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/bg/depilation-legs-bg" hreflang="bg"/>
+<changefreq>monthly</changefreq>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://letssugar.beauty/bg/depilation-legs-bg</loc>
 <xhtml:link rel="alternate" href="https://letssugar.beauty/depilations-legs" hreflang="ru"/>
 <xhtml:link rel="alternate" href="https://letssugar.beauty/bg/depilation-legs-bg" hreflang="bg"/>
 <changefreq>monthly</changefreq>
@@ -91,7 +161,22 @@
 <changefreq>monthly</changefreq>
 <priority>1.00</priority>
 </url>
+<url>
+<loc>https://letssugar.beauty/bg/sugaring-or-wax-bg</loc>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/sugar-or-wax" hreflang="ru"/>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/bg/sugaring-or-wax-bg" hreflang="bg"/>
+<changefreq>monthly</changefreq>
+<priority>1.00</priority>
+</url>
+<url>
 <loc>https://letssugar.beauty/politica-konfidentsialnosty.html</loc>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/politica-konfidentsialnosty" hreflang="ru"/>
+<xhtml:link rel="alternate" href="https://letssugar.beauty/bg/politica-poveritelnost" hreflang="bg"/>
+<changefreq>monthly</changefreq>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://letssugar.beauty/bg/politica-poveritelnost</loc>
 <xhtml:link rel="alternate" href="https://letssugar.beauty/politica-konfidentsialnosty" hreflang="ru"/>
 <xhtml:link rel="alternate" href="https://letssugar.beauty/bg/politica-poveritelnost" hreflang="bg"/>
 <changefreq>monthly</changefreq>
